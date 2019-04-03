@@ -1,3 +1,4 @@
+
 package main
 
 import (
@@ -6,4 +7,6 @@ import (
 
 func main(){
 	fmt.Println("Hello !")
+	fmt.Println("Another line !")
+	fmt.Println("More lineee !")
 }
